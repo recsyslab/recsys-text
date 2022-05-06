@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+google_analytics: G-9351YN77X5
+plugins:
+  - jekyll-sitemap
