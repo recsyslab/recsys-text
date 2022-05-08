@@ -1,7 +1,3 @@
----
-title: 第1章 評価履歴 | recsys-python
-layout: default
----
 {% include header.html %}
 
 ## Welcome to GitHub Pages
