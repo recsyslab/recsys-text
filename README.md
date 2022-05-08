@@ -1,8 +1,10 @@
 {% include header.html %}
 
-# 基礎から学ぶ推薦システム - 情報技術で嗜好を予測する - サポートサイト
+# 基礎から学ぶ推薦システム：サポートサイト
 
-https://www.coronasha.co.jp/np/isbn/9784339029284/
+本サイトは、下記書籍のサポートサイトです。
+- 奥 健太：基礎から学ぶ推薦システム - 情報技術で嗜好を予測する -, コロナ社 (2022)
+- 出版社の書籍情報ページ：https://www.coronasha.co.jp/np/isbn/9784339029284/
 
 ## Welcome to GitHub Pages
 
