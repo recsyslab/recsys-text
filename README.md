@@ -1,5 +1,9 @@
 {% include header.html %}
 
+# 基礎から学ぶ推薦システム - 情報技術で嗜好を予測する - サポートサイト
+
+https://www.coronasha.co.jp/np/isbn/9784339029284/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/recsyslab/recsys-text/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
