@@ -9,5 +9,5 @@
 # recsys-python
 recsys-pythonはPythonによる推薦システムの演習問題集です。本書の内容に沿って、推薦システムの基本である、評価履歴や評価値行列の扱いから、内容ベース推薦システム、近傍ベース協調フィルタリング、推薦システムの評価などに関する問題を取り揃えています。本書で解説している計算過程をPythonで記述する際の参考にしてください。
 
-[recsys-python](https://recsyslab.github.io/recsys-python/)
+- recsys-python: https://recsyslab.github.io/recsys-python/
 
