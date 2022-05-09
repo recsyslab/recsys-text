@@ -1,3 +1,8 @@
+---
+title: 推薦システム概論 | 講義スライド
+layout: default
+---
+
 {% include header.html %}
 
 # 推薦システム概論 | 講義スライド
