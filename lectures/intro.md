@@ -1,5 +1,5 @@
 ---
-title: 推薦システム概論 | recsys-text
+title: 推薦システム概論
 layout: default
 ---
 
