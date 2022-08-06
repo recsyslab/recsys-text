@@ -10,6 +10,7 @@
 
 本書の内容を基にした講義スライドを公開しています。
 - [推薦システム概論](lectures/intro.md)
+- [推薦システム高校講座](lectures/high-school.md)
 
 
 ## Pythonによる推薦システム演習問題集
