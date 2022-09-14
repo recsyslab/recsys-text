@@ -114,4 +114,12 @@ $$
 \right]
 $$
 
-
+$$
+\boldsymbol{S} = \left[
+ \begin{array}{rrrrrr}
+   1.000 &  0.198 &  0.802 \\
+   0.198 &  1.000 & -0.113 \\
+   0.802 & -0.113 &  1.000
+ \end{array}
+\right]
+$$
