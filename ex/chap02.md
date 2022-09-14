@@ -123,3 +123,9 @@ $$
  \end{array}
 \right]
 $$
+
+$$
+\lambda_{1} = 1.807, \;\;\;\; \boldsymbol{v}_{1} = [0.712, 0.077, 0.698]^{\mathsf{T}}
+\lambda_{2} = 1.052, \;\;\;\; \boldsymbol{v}_{2} = [ -0.121, -0.965, 0.230]^{\mathsf{T}}
+\lambda_{3} = 0.141, \;\;\;\; \boldsymbol{v}_{3} = [-0.691, 0.249, 0.678]^{\mathsf{T}}
+$$
