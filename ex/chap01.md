@@ -6,3 +6,4 @@ layout: default
 {% include header.html %}
 
 $$D_{u}$$
+
