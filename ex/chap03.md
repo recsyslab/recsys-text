@@ -179,7 +179,7 @@ Brunoの訓練データ$$D_{2}^{L}$$を、それぞれ次の基準で分割し�
 ### 演習問題18
 Brunoのユーザプロファイルとして図3.aの決定木が構成されたとする。このとき、次の各アイテムのスコアを求めなさい。
 
-![fig3a](/img/ex_fig3a.png)
+![fig3a](https://github.com/recsyslab/recsys-text/blob/main/img/ex_fig3a.png)
 
 図3.a Brunoのユーザプロファイル
 
