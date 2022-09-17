@@ -13,7 +13,9 @@
 - [推薦システム高校講座](lectures/high-school.md)
 
 ## 演習問題集
+- [基礎から学ぶ推薦システム 演習問題集](ex/README.md)
 
+**基礎から学ぶ推薦システム - 情報技術で嗜好を予測する -** の演習問題集です。
 
 ## Pythonによる推薦システム演習問題集
 - [**recsys-python**](https://recsyslab.github.io/recsys-python/)
