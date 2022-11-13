@@ -35,8 +35,8 @@ layout: default
 ### 演習問題2
 次の各ルールの支持度を求めなさい。
 
-#### (1) ルール$$\{\text{チョコ}\} \Rightarrow r = +1$$
+#### (1) ルール$$\{\text{カルビ} = +1\} \Rightarrow \text{ロース} = -1$$
 
-#### (2) ルール$$\{\text{チョコ}, \text{ホイップ}, \text{バナナ}\} \Rightarrow r = +1$$
+#### (2) ルール$$\{\text{カルビ} = +1, \text{ハラミ} = -1\} \Rightarrow \text{ロース} = -1$$
 
-#### (3) ルール$$\{\text{いちご}, \text{チョコ}\} \Rightarrow r = -1$$
+#### (3) ルール$$\{\text{ハラミ} = -1, \text{タン} = -1, \text{カルビ} = -1\} \Rightarrow \text{ロース} = +1$$
