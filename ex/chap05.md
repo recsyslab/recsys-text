@@ -49,3 +49,8 @@ layout: default
 #### (2) ルール$$\{\text{カルビ} = +1, \text{ハラミ} = -1\} \Rightarrow \text{ロース} = -1$$
 
 #### (3) ルール$$\{\text{ハラミ} = -1, \text{タン} = -1, \text{カルビ} = -1\} \Rightarrow \text{ロース} = +1$$
+
+### 演習問題4
+最小支持度を$$\mathit{minsup} = 0.2$$、最小確信度を$$\mathit{minconf} = 0.5$$とするとき、ロースの好き嫌いに関する相関ルールをすべて挙げなさい。
+
+
