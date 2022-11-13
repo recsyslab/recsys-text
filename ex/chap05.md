@@ -40,3 +40,12 @@ layout: default
 #### (2) ルール$$\{\text{カルビ} = +1, \text{ハラミ} = -1\} \Rightarrow \text{ロース} = -1$$
 
 #### (3) ルール$$\{\text{ハラミ} = -1, \text{タン} = -1, \text{カルビ} = -1\} \Rightarrow \text{ロース} = +1$$
+
+### 演習問題3
+次の各ルールの確信度を求めなさい。
+
+#### (1) ルール$$\{\text{カルビ} = +1\} \Rightarrow \text{ロース} = -1$$
+
+#### (2) ルール$$\{\text{カルビ} = +1, \text{ハラミ} = -1\} \Rightarrow \text{ロース} = -1$$
+
+#### (3) ルール$$\{\text{ハラミ} = -1, \text{タン} = -1, \text{カルビ} = -1\} \Rightarrow \text{ロース} = +1$$
