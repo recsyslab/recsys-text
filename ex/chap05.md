@@ -126,7 +126,7 @@ Brunoのロースに対する予測評価値を求めなさい。ただし、確
 ### 演習問題15
 ロース用の学習モデルとして**図5.a**の決定木が構成されたとする。このとき、次の各予測評価値を求めなさい。
 
-![fig3a](https://github.com/recsyslab/recsys-text/blob/main/img/ex_fig3a.png?raw=true)
+![fig5a](https://github.com/recsyslab/recsys-text/blob/main/img/ex_fig5a.png?raw=true)
 
 **図5.a ロース用の決定木**
 
