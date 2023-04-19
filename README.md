@@ -38,6 +38,7 @@ PythonのWebアプリケーションフレームワークであるDjangoによ�
 - [正誤表｜コロナ社](https://www.coronasha.co.jp/np/resrcs/seigo.html?goods_id=7857)
 
 ## 更新情報
+- Djangoによる推薦システム開発チュートリアルrecsys-djangoを公開
 - 2023-04-03: 正誤表へのリンクを追加
 - 2022-12-19: 第5章の演習問題を公開
 - 2022-11-28: 第4章の演習問題を公開
