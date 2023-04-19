@@ -18,12 +18,12 @@
 **基礎から学ぶ推薦システム - 情報技術で嗜好を予測する -** の演習問題集です。
 
 ## Pythonによる推薦システム演習問題集
-- [recsys-python | Pythonによる推薦システム演習問題集](https://recsyslab.github.io/recsys-python/)
+- [recsys-python \| Pythonによる推薦システム演習問題集](https://recsyslab.github.io/recsys-python/)
 
 Pythonによる推薦システムの演習問題集として、**recsys-python**を公開しています。本書の内容に沿って、推薦システムの基本である、評価履歴や評価値行列の扱いから、内容ベース推薦システム、近傍ベース協調フィルタリング、推薦システムの評価などに関する問題を取り揃えています。本書で解説している計算過程をPythonで記述する際の参考にしてください。
 
 ## Djangoによる推薦システム開発チュートリアル
-- [recsys-django | Djangoによる推薦システム開発チュートリアル](https://recsyslab.github.io/recsys-django/)
+- [recsys-django \| Djangoによる推薦システム開発チュートリアル](https://recsyslab.github.io/recsys-django/)
 
 PythonのWebアプリケーションフレームワークであるDjangoによる推薦システム開発のチュートリアルとして、**recsys-django**を公開しています。推薦システムの開発演習を通して、DjangoによるWebアプリケーションの開発方法を学習できる内容となっています。本書の例として扱ったユーザ-寿司行列を対象に、ハイブリッド型推薦システムの具体的なイメージとして設計しています。
 
