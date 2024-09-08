@@ -32,6 +32,7 @@ PythonのWebアプリケーションフレームワークであるDjangoによ�
 - [コロナ社の書籍詳細ページ](https://www.coronasha.co.jp/np/isbn/9784339029284/)
 - [ブクログの書籍詳細ページ](https://booklog.jp/item/1/4339029289)
 - [Amazonのレビュー](https://www.amazon.co.jp/dp/4339029289/?_encoding=UTF8&psc=1&smid=AN1VRQENFRJN5&ref_=nav_ya_signin&returnFromLogin=1)
+- [電子情報通信学会, Vol.106, No.7, 図書紹介](https://app.journal.ieice.org/trial/106_7/k106_7_618/index.html)
 
 ## 正誤表
 コロナ社の書籍紹介ページから本書の正誤表を確認頂けます。いろいろとミスがあり申し訳ございません。
