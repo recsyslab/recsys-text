@@ -63,6 +63,9 @@ PythonのWebアプリケーションフレームワークであるDjangoによ�
 - 2022-04-22: recsys-pythonの第1章の模範解答を公開
 - 2022-03-23: Pythonによる推薦システム演習問題集recsys-pythonを公開
 
-## 作成者
+## 著者
 
-龍谷大学 [推薦システム研究室](https://recsyslab.org/) 奥 健太
+龍谷大学 推薦システム研究室 奥 健太
+- 個人Web: [https://okukenta.net/](https://okukenta.net/)
+- 研究室Web: [https://recsyslab.org/](https://recsyslab.org/)
+- X: [@okukenta](https://x.com/okukenta)
